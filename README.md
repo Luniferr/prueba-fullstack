@@ -1,4 +1,4 @@
-Proyecto Fullstack
+##Proyecto Fullstack
 Este repositorio contiene dos partes principales:
 
 Backend (Node.js + Express + MongoDB)
